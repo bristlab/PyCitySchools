@@ -1,1 +1,3 @@
 # PyCitySchools
+
+We're using Jupyter Notebook in conjunction with Python and Pandas to explore and analyze a dataset of 19,514 high school students. We need to clean the data by removing duplicates and rows with incomplete data, which leaves us with 14,831 students. We also modify certain datatypes to make them easier to work with and summarize the data. Once the data has been prepared, we are able to compare math and reading scores across the entire school district. We are able to draw some conclusions about which schools have demonstrated the highest academic performance and examine whether or not higher budgets result in higher performance.
